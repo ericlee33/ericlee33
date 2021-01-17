@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Morph's Home
-subtitle: ''
+title: Eric's Home
+subtitle: 'Be An Optimist'
 description: 'With the code, change the world'
-keywords: morph，博客，生活，技术，代码
-author: morph
+keywords: Eric，博客，生活，技术，代码
+author: Eric
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://azure33.gitee.io/morph-blog
+url: https://azure33.gitee.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
