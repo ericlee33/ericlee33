@@ -1,4 +1,5 @@
-### Hello guys, for more details: visit https://ericlee33.github.io/
+### Hello guys, you can call me Eric, for more about myself:
+### https://ericlee33.github.io/ 
 
 - 🔭 I’m currently working on ShareDaka
 - 🌱 I’m currently learning Front-End
