@@ -7,5 +7,3 @@
 
 - deploy 
   npx hexo deploy -g(generator)
-
-- azure33为镜像deploy仓库
