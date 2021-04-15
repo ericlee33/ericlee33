@@ -123,10 +123,10 @@ menu:
   tags: /tags/ || tags
   about: /about/ || user
   # schedule: /schedule/ || calendar
-  # sitemap:
-  #   path: sitemap.xml
-  # baidusitemap:
-  #   path: baidusitemap.xml
+  sitemap:
+    path: sitemap.xml
+  baidusitemap:
+    path: baidusitemap.xml
   # commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
